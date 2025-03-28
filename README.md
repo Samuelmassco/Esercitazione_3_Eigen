@@ -1,14 +1,7 @@
-HEAD
-# Esercitazione_3_Eigen
-# Singular Matrices
+- 👋 Hi, I’m @Samuelmassco but you can call me sam :)
+- 👀 I’m interested in matematics (more precisely in graph theory), handball, chess and cs 
+- 🌱 I’m currently learning enginering in politecnico di torino 
+- 💞️ I’m looking to collaborate on anything where i can be useful
+- 📫 How to reach me contact me on telegram if you want @Samuel_co17 or instagram @samcoriat_
 
-Solving linear system plays a key role in many scientific application, such as engineering, physics, chemistry, computer science, and economics. 
 
-## Requirements
-
-Write a software that determines if the following matrices are singular or not:
-
-1. `A` is `n` x `n` squared matrix with elements from `1` to `n^2`
-2. `A` is `n` x `n` squared matrix with random elements in `[0,2]3. `A` is `n` x `n` hilbert squared matrix
-   `A[i, j] = 1 / (1 + i + j)`.
-f8b4416 (Premier commit - Ajout des fichiers initiaux)
